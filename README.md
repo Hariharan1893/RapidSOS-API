@@ -4,6 +4,10 @@ A **Spring Boot** REST API designed for managing users and their emergency conta
 
 ---
 
+The following diagram illustrates the high-level architecture of the **RapidSOS API**:
+
+![RapidSOS Architecture](image/architecture.png)
+
 ## Features
 - **User Management**: Register, retrieve, and delete users.
 - **Emergency Contacts**: Add, fetch, and delete emergency contacts.
